@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou Vitor 👋
 
-<!--
-**vitord21/vitord21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente, estou estudando desenvolvimento Web na Solutions Cursos e Treinamentos e Economia na Fecap
+- HTML, CSS, JavaScript
+- Bootstrap
+- Git/Github
+- Lovable
+- TypeScript
+- PHP
+- SQL
+- PowerBI
+- Python
+- Excel 
